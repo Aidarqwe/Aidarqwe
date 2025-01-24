@@ -3,6 +3,7 @@
 ## Contacts
 - **Email:** ajdarzbs@gmail.com  
 - **Phone:** +996 550 043 247(KGS)
+- **Telegram** [@Aidar0312](https://t.me/Aidar0312)
 
 ---
 
@@ -38,7 +39,7 @@
   - Designed a database for players, progress, and assets.  
   - Integrated **Telegram API** for authentication and interactions.  
   - Worked with frontend and DevOps for deployment.   
-- **Freelance Full-stack Developer** *(2021–2023)*  
+- **Freelance Full-stack Developer** *(2021 – 2023, 3 years)*  
   - Website development, backend logic (Node.js, Python), testing, and optimization.  
 
 ---
