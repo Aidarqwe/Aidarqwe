@@ -24,7 +24,13 @@
 
 ## Experience
 - **Full-stack Developer, Dit Technologies** *(July 2023 – Present)*  
-  - MERN/PERN stacks, external APIs, server deployment (Nginx, Apache).
+  - Built responsive websites from **Figma/Photoshop** layouts.  
+  - Developed APIs and managed databases with **Node.js** and **Python**.  
+  - Optimized performance and added features to existing projects.  
+  - Created dynamic UIs with **React** and **TypeScript**.  
+  - Integrated external APIs and payment systems.  
+  - Deployed projects using **Nginx/Apache** and CI/CD pipelines.  
+
 - **Backend Developer** *(August 2024 – December 2024, 5 months)*  
     [Trenk (Telegram mini app)](https://t.me/trenkton_bot) 
   - Built a scalable backend with **Node.js** and **TypeScript**.  
