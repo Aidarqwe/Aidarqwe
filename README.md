@@ -2,7 +2,6 @@
 
 ## Contacts
 - **Email:** ajdarzbs@gmail.com  
-- **Phone:** +996 550 043 247(KGS)
 - **Telegram** [@Aidar0312](https://t.me/Aidar0312)
 
 ---
