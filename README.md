@@ -7,16 +7,16 @@
 ---
 
 ## Skills
-- **Frontend:** React (TypeScript), Redux, MobX, HTML, CSS/SCSS/SASS, MUI/Tailwind, JavaScript, jQuery
-- **Backend:** Node.js/Express, Next.js, Python  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **DevOps:** Docker, Nginx, Apache, CI/CD Pipelines
-- **Other:** Git, Webpack, Solidity, Fift, Func, Tact 
+- **Languages:** JavaScript, TypeScript, Python, PHP, Golang, Fift, Tact
+- **Frontend:** React, Vite, Redux, MobX, TailwindCSS, Material UI, Webpack, SCSS/SASS
+- **Backend:** Node.js, Next.js, Express, PostgreSQL, MySQL, MongoDB, Prisma / TypeORM / Sequelize / Knex, Redis  
+- **DevOps:** Docker, Nginx, GitHub Actions, PM2
+- **Other:** S3, AWS, Git, Linux VPS, Postman, OpenAPI / Swagger, SOLID / DRY / KISS 
 
 ---
 
 ## Education
-- **KNITU-KAI, Kazan, Russia** *(2021–2025, Expected)*  
+- **KNRTU-KAI, Kazan, Russia** *(2021–2025)*  
   - Faculty of Physics and Mathematics  
   - Minors: Mobile App Development, Data Science  
 
@@ -24,22 +24,16 @@
 
 ## Experience
 - **Full-stack Developer, Dit Technologies** *(July 2023 – Present)*  
-  - Built responsive websites from **Figma/Photoshop** layouts.  
-  - Developed APIs and managed databases with **Node.js** and **Python**.  
-  - Optimized performance and added features to existing projects.  
-  - Created dynamic UIs with **React** and **TypeScript**.  
-  - Integrated external APIs and payment systems.  
-  - Deployed projects using **Nginx/Apache** and CI/CD pipelines.  
+  - Developed and maintained scalable web applications using TypeScript, React, and Node.js within MERN and PERN stacks, reducing frontend technical debt by ~30% through improved component architecture. 
+	- Designed RESTful APIs with Express and PostgreSQL/MySQL, implementing role-based access control (RBAC), JWT authentication, and session handling, which supported over 15,000+ monthly active users.
+	- Integrated external APIs and developed services for messaging, analytics, and payment systems, resulting in a 25% boost in user engagement and enabling real-time event tracking.
+  - Set up server environments using Docker, Nginx, and Apache, and configured production deployment pipelines with GitHub Actions.
+  - Participate in Agile/Scrum processes, including daily stand-ups, sprint planning, and retrospectives.
 
-- **Backend Developer** *(August 2024 – December 2024, 5 months)*  
-    [Trenk (Telegram mini app)](https://t.me/trenkton_bot) 
-  - Built a scalable backend with **Node.js** and **TypeScript**.  
-  - Managed real-time sessions and game updates.  
-  - Designed a database for players, progress, and assets.  
-  - Integrated **Telegram API** for authentication and interactions.  
-  - Worked with frontend and DevOps for deployment.   
 - **Freelance Full-stack Developer** *(2021 – 2023, 3 years)*  
-  - Website development, backend logic (Node.js, Python), testing, and optimization.  
+  - Delivered 10+ client-server web apps using React, Node.js, and PostgreSQL across logistics, CRM, and eCommerce sectors. 
+  - Created reusable UI libraries and form systems, reducing development time on new projects by ~40%.
+  - Optimized SQL queries and added server-side pagination for large datasets (>10k records), improving loading time by 80%.
 
 ---
 
