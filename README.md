@@ -25,8 +25,8 @@
 ## Experience
 - **Full-stack Developer, Dit Technologies** *(July 2023 – Present)*  
   - Developed and maintained scalable web applications using TypeScript, React, and Node.js within MERN and PERN stacks, reducing frontend technical debt by ~30% through improved component architecture. 
-	- Designed RESTful APIs with Express and PostgreSQL/MySQL, implementing role-based access control (RBAC), JWT authentication, and session handling, which supported over 15,000+ monthly active users.
-	- Integrated external APIs and developed services for messaging, analytics, and payment systems, resulting in a 25% boost in user engagement and enabling real-time event tracking.
+  - Designed RESTful APIs with Express and PostgreSQL/MySQL, implementing role-based access control (RBAC), JWT authentication, and session handling, which supported over 15,000+ monthly active users.
+  - Integrated external APIs and developed services for messaging, analytics, and payment systems, resulting in a 25% boost in user engagement and enabling real-time event tracking.
   - Set up server environments using Docker, Nginx, and Apache, and configured production deployment pipelines with GitHub Actions.
   - Participate in Agile/Scrum processes, including daily stand-ups, sprint planning, and retrospectives.
 
